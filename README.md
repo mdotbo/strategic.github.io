@@ -1,0 +1,2 @@
+# strategic.github.io
+Strategic
